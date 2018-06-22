@@ -4,7 +4,8 @@
   "description": "",
   "main": "warmup.js",
   "scripts": {
-    "dev": "nodemon warmup.js"
+    "dev": "nodemon warmup.js",
+    "start": "node warmup.js"
   },
   "keywords": [],
   "author": "",
